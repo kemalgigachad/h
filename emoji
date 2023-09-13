@@ -31,7 +31,7 @@ async def mem(ctx):
     await ctx.send(file=picture)  
    
 
-bot.run("MTE1MDEwNjM4MDkyMjAwMzQ3Ng.GF0opK.gv4GMtc9AObKIl-E-MEdB4WmbkVcgaFVy7EtDA")
+bot.run("")
 
 
 
